@@ -1,3 +1,3 @@
 puts "this is the first file"
-load "loadee.rb"
+require "loadee"
 puts "and back to the second"
